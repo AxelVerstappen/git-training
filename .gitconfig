@@ -1,0 +1,8 @@
+[user]
+	name = Axel Verstappen
+	email = axel.verstappen@gmail.com
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\axel\\Documents\\gitignore_global.txt
+[color]
+	ui = true
